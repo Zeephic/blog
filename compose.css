@@ -1,0 +1,22 @@
+.compose-cover{
+    width: 90%;
+    height: 70%;
+   text-transform: uppercase;
+    padding: 3rem;
+}
+
+
+.input-btn,.compose-textarea{
+    width: 100%;
+}
+
+.btn{
+    text-align: center;
+   margin-left: 40%;
+    margin-top: 3rem;
+    background-color: blueviolet;
+    border: none;
+    width: 10rem;
+    height: 3rem;
+    color: white;
+}
